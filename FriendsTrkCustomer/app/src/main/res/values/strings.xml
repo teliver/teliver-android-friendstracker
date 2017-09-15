@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FriendsTrkCustomer</string>
+
+    <string name="txtStartTrip">Start Trip</string>
+    <string name="txtStopTrip">Stop Trip</string>
+    <string name="txtStartTracking">Start Tracking</string>
+    <string name="txtStopTracking">Stop Tracking</string>
+    <string name="map_api_key">AIzaSyDyLTN5I4WRfx-R-QrftY7A4JEg1h4JZ30</string>
+</resources>
